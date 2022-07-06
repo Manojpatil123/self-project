@@ -1,1 +1,1 @@
-Projects on data science 
+self Projects on data science 
